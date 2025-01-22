@@ -22,5 +22,9 @@ button {
 }
 
 li {
-  @apply text-sm
+  @apply text-sm 
+}
+
+.li-register li {
+  @apply border p-2 
 }
